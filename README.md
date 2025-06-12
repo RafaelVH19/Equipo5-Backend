@@ -1,5 +1,5 @@
 # Equipo5-Backend
-Backend para el api del equipo 5
+Backend para el API del equipo 5.
 
 # Instalación
 Para instalar las dependencias del proyecto, elimine la carpeta de node_modules si es necesario y ejecute los siguientes comandos en la terminal:
